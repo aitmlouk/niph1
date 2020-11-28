@@ -1,0 +1,4 @@
+[submodule "aitmlouk/niph"]
+	path = aitmlouk/niph
+	url = git@github.com:aitmlouk/niph.git
+	branch = P02
